@@ -17,3 +17,9 @@
 <h3 aligh="left">🔮 Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
 <h3 aligh="left">🔮 Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
 <h3 aligh="left">🔮 Django | 30%</h3><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/bar.png?raw=true" height="16px" width="150px">
+
+<h2 align="right">🌞 الان مشغول این کارهام:</h2>
+<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
+<h4 align="right">⭐️ تدریس پایتون</h4>
+<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
+<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
